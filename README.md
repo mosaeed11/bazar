@@ -22,8 +22,8 @@ complete authentication flow backed by **Firebase Authentication**, a catalogue 
 vendors and authors, a working favourites system, and a polished custom UI built around a
 single deep-purple design language.
 
-The project is a graduation deliverable for the **Digital Egypt Initiative (DEPI)** mobile
-track.
+The project was built during a training period as a hands-on Flutter & Firebase
+application.
 
 ---
 
@@ -281,9 +281,9 @@ IDs, valid image paths) and the design-system colour constant.
 
 ---
 
-## 👥 Team
+## 👤 Author
 
-Developed by the **Bazar** team as part of the Digital Egypt Initiative (DEPI) mobile track.
+**Mohammed Saeed** — developed the project solo during a training period.
 
 ---
 
